@@ -1,0 +1,11 @@
+{
+  "first_matrix_dimensions": [3, 3],
+  "second_matrix_dimensions": [3, 3],
+  "first_matrix":[[1, 2, 0],
+                 [2, 1, 4],
+                 [1, 4, 8]],
+  "second_matrix":[[2, 4, 1],
+                  [1, 2, 3],
+                  [4, 0, 3]],
+  "number": 18
+}
